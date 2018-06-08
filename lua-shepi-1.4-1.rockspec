@@ -1,9 +1,17 @@
-package = "lua-shepi"
-version = "1.3-1"
+-- This file was automatically generated for the LuaDist project.
 
+package = "lua-shepi"
+version = "1.4-1"
+
+-- LuaDist source
 source = {
-   url = "git://github.com/forflo/shepi"
+  tag = "1.4-1",
+  url = "git://github.com/LuaDist-testing/lua-shepi.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/forflo/shepi"
+-- }
 
 description = {
     summary = "Tiny EDSL for shell pipes in lua",
